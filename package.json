@@ -1,0 +1,26 @@
+{
+  "name": "cqrs_bbs",
+  "version": "1.0.0",
+  "description": "cqrs 架构",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannysys/CQRS_BBS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannysys/CQRS_BBS/issues"
+  },
+  "homepage": "https://github.com/mannysys/CQRS_BBS#readme",
+  "dependencies": {
+    "cqrs": "^1.0.5-pre"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "should": "^11.1.0"
+  }
+}
